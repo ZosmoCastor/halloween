@@ -1,1 +1,2 @@
-# Kendimi kısa tanıttım ancak aklıma gelmedi pek fazla.
+Yazılarım kısa olmuş olabilir ancak çokta uzun bir geçmişim yok. 
+Resimleri cadılar bayramına uygun olsun diye yaptım.
