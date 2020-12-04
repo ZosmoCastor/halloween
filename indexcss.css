@@ -2,3 +2,8 @@
     background-color: black;
 
 }
+.ok:hover {
+background-color: black;
+    opacity: 0.4;
+
+}
