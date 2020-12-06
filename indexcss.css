@@ -1,9 +1,10 @@
 .yazı:hover {
     background-color: black;
+    
 
 }
-.ok:hover {
-background-color: black;
-    opacity: 0.4;
-
+.ok.hover
+{
+    background-image:url(ok2.png);
+    
 }
