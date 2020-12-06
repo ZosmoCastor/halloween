@@ -6,6 +6,7 @@
 }
 .ok:hover
 {
-    background-image:url(ok2.png);
+    box-shadow: 0 0 2px 1px rgba(orangered, orange, orangered, 0.6);
+
     
 }
