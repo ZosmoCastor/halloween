@@ -4,7 +4,7 @@
     background-image:url(okh.png);
 }
 
-.yazi {
+.yazı {
     position:relative;
     display: inline-block;
     padding: 15px 30px;
@@ -16,7 +16,7 @@
     overflow: hidden;
     transition: 0.2s;
 }
-.yazi:hover
+.yazı:hover
 {
     color: #255784;
     background: #2196f3;
