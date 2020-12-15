@@ -8,7 +8,7 @@
     position:relative;
     display: inline-block;
     padding: 15px 30px;
-    color:black;
+    color:	# 000000;
     letter-spacing: 4px;
     text-decoration: none;
     font-size: 24px;
@@ -17,8 +17,8 @@
 }
 .yazı:hover
 {
-    color: #255784;
-    background: #2196f3;
-    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    color: #000000;
+    background: 	#FFA500;
+    box-shadow: 0 0 10px 	#FFA500, 0 0 40px 	#FFA500, 0 0 80px 	#FFA500;
     transition-delay: 0.5s;
 }
