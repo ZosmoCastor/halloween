@@ -52,7 +52,7 @@
     overflow: hidden;
     transition: 0.2s;
 }
-.steam:hover:hover {
+.steam:hover {
     color: #000000;
     background: 	#FFA500;
     box-shadow: 0 0 10px 	#FFA500, 0 0 40px 	#FFA500, 0 0 80px 	#FFA500;
