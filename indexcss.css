@@ -22,39 +22,3 @@
     box-shadow: 0 0 10px 	#FFA500, 0 0 40px 	#FFA500, 0 0 80px 	#FFA500;
     transition-delay: 0.5s;
 }
-.spotify {
-    position:relative;
-    display: inline-block;
-    padding: 15px 30px;
-    color:	# 000000;
-    letter-spacing: 4px;
-    text-decoration: none;
-    font-size: 24px;
-    overflow: hidden;
-    transition: 0.2s;
-}
-.spotify:hover {
-    color: #000000;
-    background: 	#FFA500;
-    box-shadow: 0 0 10px 	#FFA500, 0 0 40px 	#FFA500, 0 0 80px 	#FFA500;
-    transition-delay: 0.5s;
-}
-
-
-.steam {
-    position:relative;
-    display: inline-block;
-    padding: 15px 30px;
-    color:	# 000000;
-    letter-spacing: 4px;
-    text-decoration: none;
-    font-size: 24px;
-    overflow: hidden;
-    transition: 0.2s;
-}
-.steam:hover {
-    color: #000000;
-    background: 	#FFA500;
-    box-shadow: 0 0 10px 	#FFA500, 0 0 40px 	#FFA500, 0 0 80px 	#FFA500;
-    transition-delay: 0.5s;
-}
